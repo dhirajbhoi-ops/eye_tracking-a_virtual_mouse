@@ -66,7 +66,7 @@ python version_3.py
 ## Project structure
 
 - `version_1.py` — initial prototype: basic gaze tracking, blink-to-click, and scrolling
-- `version_2.py` — full version: adds calibration, a Tkinter control GUI, wink-based left/right clicks, scrooling feature, text selection, text selection mode, and gaze smoothing 
+- `version_2.py` — full version: adds calibration, a Tkinter control GUI, wink-based left/right clicks, scrolling feature, text selection, text selection mode, and gaze smoothing 
 - `version_3.py` — full version: adds calibration, a Tkinter control GUI, wink-based left/right clicks, text selection mode, and gaze smoothing for a stable cursor
 
 ## Known limitations
